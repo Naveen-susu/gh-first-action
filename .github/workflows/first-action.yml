@@ -5,6 +5,6 @@ jobs:
     runs-on: ubunt-latest
     steps:
       _ name: print greeting
-        run: echo "Hello World"
+        run: echo "Hello World!"
       -  name: Print goodbye  
          run: echo "Done - bye!"
